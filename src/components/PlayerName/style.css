@@ -1,4 +1,8 @@
-.PlayerName h1{
+.player-name{
     color:var(--color-floral-white);
+    font-size:1rem;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 10px;
 
 }
